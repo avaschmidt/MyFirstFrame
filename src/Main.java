@@ -12,7 +12,7 @@ public class Main {
         panel.setBackground(new Color(255,182,193));
         //Step 3: Create Components
         JLabel label = new JLabel("Goodbye World");
-        JButton button = new JButton("Push me!");
+        JButton button = new JButton("Don't push me!");
         JTextField textField = new JTextField(5);
         JSlider slider = new JSlider();
 
